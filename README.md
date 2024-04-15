@@ -1,5 +1,8 @@
 # ReVerif
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/T-am3/ReVerif-Backend)
+
+
 ## Getting Started
 
 To run the ReVerif backend locally or deploy it to a server, follow these steps:
