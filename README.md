@@ -15,7 +15,3 @@ To run the ReVerif backend locally or deploy it to a server, follow these steps:
 ## Contribution
 
 Contributions to ReVerif are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-[Include license information here, e.g., MIT License, Apache License, etc.]
